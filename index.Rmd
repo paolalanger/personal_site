@@ -3,4 +3,4 @@ title: "Paola Langer"
 ---
 
 
-![]/images/profile_pic.JPG
+![email: planger(at) ucdavis (dot) com.](images/profile_pic.JPG)
