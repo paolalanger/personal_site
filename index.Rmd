@@ -4,3 +4,6 @@ title: "Paola Langer"
 
 
 ![email: planger(at) ucdavis (dot) com.](images/profile_pic.JPG)
+<div class = "pull-left">
+  <img width = "300" src="images/me.jpg" style = "padding-right: 25px">
+</div>
