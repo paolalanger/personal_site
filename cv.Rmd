@@ -1,4 +1,13 @@
+
 ---
-title: "CV"
+title: Curriculum Vitae
+date: August 24, 2024
+share: FALSE
+output: html_document
 ---
 
+You can [download my CV as a PDF](content/CV-Paola Langer-AUG 2024.pdf).
+
+<object data="content/CV-Paola Langer-AUG 2024.pdf" type="application/pdf" width="100%" height=1000>
+<iframe src="content/CV-Paola Langer-AUG 2024.pdf" width="100%" height="100%" style="border: none;"></iframe>
+</object>
