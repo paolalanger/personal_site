@@ -6,23 +6,6 @@ output:
 ---
 <br>
 
-<h2 class="Publications">News</h2>
-
-
-<div class="news-container">
-  <a href="https://vcresearch.berkeley.edu/news/after-trumps-election-women-color-had-more-underweight-premature-babies-study-finds" class="news-title">
-    After Trump’s Election, Women of Color Had More Underweight, Premature Babies, Study Finds
-  </a>
-  <span class="news-subtitle">UC Berkeley News</span>
-</div>
-
-<div class="news-container">
-  <a href="https://www.washingtonpost.com/business/2022/12/23/american-emigrants/" class="news-title">
-    Why have millions of Americans moved to these countries instead?
-  </a>
-  <span class="news-subtitle">Thw Washington Post</span>
-</div>
-
 <h2 class="Publications">Policy Briefs</h2>
 
 <div class="news-container">
@@ -37,4 +20,22 @@ output:
     De Facto Deported Children in Mexico Face Socioeconomic Disadvantage
   </a>
   <span class="news-subtitle">Center for Poverty & Inequality, UC Davis</span>
+</div>
+
+
+<h2 class="Publications">Media</h2>
+
+
+<div class="news-container">
+  <a href="https://vcresearch.berkeley.edu/news/after-trumps-election-women-color-had-more-underweight-premature-babies-study-finds" class="news-title">
+    After Trump’s Election, Women of Color Had More Underweight, Premature Babies, Study Finds
+  </a>
+  <span class="news-subtitle">UC Berkeley News</span>
+</div>
+
+<div class="news-container">
+  <a href="https://www.washingtonpost.com/business/2022/12/23/american-emigrants/" class="news-title">
+    Why have millions of Americans moved to these countries instead?
+  </a>
+  <span class="news-subtitle">Thw Washington Post</span>
 </div>
