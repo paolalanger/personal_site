@@ -1,18 +1,23 @@
 ---
 title: "Paola Langer"
-subtitle: "PhD Sociology"
+subtitle: "PHD SOCIOLOGY"
+output:
+  html_document:
+    css: styles.css
 ---
 
 ::: {style="float: left; margin-right: 20px;"}
-<img src="images/Langer_headshot_2.png" alt="Paola Langer" width="300"/>
+<img src="images/Langer_headshot_2.png" alt="Paola Langer" width="400"/>
 :::
 
 <p>I'm a Postdoctoral Fellow at the <a href="https://gspp.berkeley.edu">Goldman School of Public Policy, UC Berkeley</a>.</p>
 
 <p>My research uses causal inference techniques and demographic methods to address how politics impact population health and wellbeing, with a particular emphasis on the role of structural racism in influencing population health across the life course.</p>
 
-------------------------------------------------------------------------
+<h2 style="font-size: 14px; color: #666;">planger@berkeley.edu</h2>
 
-## Research Interests
+---
 
-Health | Politics | Race & Ethnicity | Immigration 
+<h2 class="research-interests">Research Interests</h2>
+
+Health | Politics | Race & Ethnicity | Immigration

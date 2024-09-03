@@ -1,7 +1,7 @@
 name: "personal-website"
 output_dir: "."
 navbar:
-  title: "Paola Langer"
+  title: "About me"
   left:
     - text: "CV"
       href: cv.html
@@ -11,3 +11,5 @@ navbar:
       href: teaching.html
     - text: "Policy Briefs & Media"
       href: pb_media.html
+      
+      
