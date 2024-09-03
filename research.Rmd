@@ -1,8 +1,11 @@
 ---
 title: "Research"
+output:
+  html_document:
+    css: styles.css
 ---
 
-## Publications
+<h2 class="Publications">Publications</h2>
 
 - [Langer P., Patler C., Hamilton E. (2024) The 2016 US presidential election was disproportionately associated birth outcomes for infants born to Black and Hispanic mothers. Demography](https://read.dukeupress.edu/demography/article/61/4/1211/390020/Adverse-Infant-Health-Outcomes-Increased-After-the)
 
@@ -12,11 +15,11 @@ title: "Research"
 
 - [Pérez-Cruz, P. E., Langer, P., Carrasco, C., Bonati, P., Batic, B., Tupper Satt, L., & Gonzalez Otaiza, M. (2019). Spiritual Pain Is Associated with Decreased Quality of Life in Advanced Cancer Patients in Palliative Care: An Exploratory Study. Journal of palliative medicine](https://www.liebertpub.com/doi/full/10.1089/jpm.2018.0340)
 
-## Forthcoming
+<h2 class="Publications">Forthcoming</h2>
 
 - Hamilton E., Masferrer, C., & Langer, P. (Forthcoming) Parent-child separation and plans for family reunification after deportation to Mexico from the United States. Forthcoming, Migraciones Internacionales
 
-## Under review
+<h2 class="Publications">Under review</h2>
 
 - Patler C., Saadi A., Langer P., The health-related experiences of detained immigrants with and without mental illness
 
@@ -24,7 +27,7 @@ title: "Research"
 
 - Saadi A., Patler C., Langer P., Duration in Immigration Prison as a Mechanism for Health Harms Among Detained Immigrants
 
-## Manuscripts in progress
+<h2 class="Publications">Manuscripts in progress</h2>
 
 - Langer P., Campaign rallies and infant health: the case of Donald Trump 
 

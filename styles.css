@@ -42,6 +42,61 @@ h2.email {
   margin-bottom: 10px; /* Optional: Add space below the heading */
 }
 
+/* Style for Publication heading */
+.Publications {
+  font-size: 20px; /* Adjust the size as needed */
+  color: #333; /* Optional: Change the color */
+  margin-bottom: 10px; /* Optional: Add space below the heading */
+}
+
+
+
+
+/* Container for the title and image */
+.news-container {
+  display: flex; /* Use flexbox to align items horizontally */
+  align-items: center; /* Center items vertically */
+  margin-bottom: 0; /* Space below the container */
+}
+
+/* Style for the image */
+.news-image {
+  max-width: 200px; /* Adjust width as needed */
+  height: auto; /* Maintain aspect ratio */
+  margin-right: 0; /* Space between image and title */
+}
+
+/* Style for the title link */
+.news-title {
+  font-size: 14px; /* Adjust font size as needed */
+  font-weight: bold;
+  color: #007BFF; /* Link color */
+  text-decoration: none; /* Remove underline */
+  display: block; /* Ensure the title takes up full width */
+}
+
+.news-title:hover {
+  text-decoration: underline; /* Underline on hover */
+  color: #0056b3; /* Darker shade on hover */
+  margin-bottom: 0; /* Space below the container */
+}
+
+
+/* Style for the additional text */
+.news-subtitle {
+  font-size: 10px; /* Adjust font size as needed */
+  font-style: italic; /* Make text italic */
+  color: #555; /* Adjust color if needed */
+}
+
+/* Style for news image */
+.news-image {
+  width: 30%;
+  height: auto; /* Maintain aspect ratio */
+  margin-bottom: 10px;
+}
+
+
 /* styles.css */
 
 /* Style the tab bar */

@@ -1,4 +1,40 @@
 ---
 title: "Policy Briefs & Media"
+output:
+  html_document:
+    css: styles.css
 ---
+<br>
 
+<h2 class="Publications">News</h2>
+
+
+<div class="news-container">
+  <a href="https://vcresearch.berkeley.edu/news/after-trumps-election-women-color-had-more-underweight-premature-babies-study-finds" class="news-title">
+    After Trump’s Election, Women of Color Had More Underweight, Premature Babies, Study Finds
+  </a>
+  <span class="news-subtitle">UC Berkeley News</span>
+</div>
+
+<div class="news-container">
+  <a href="https://www.washingtonpost.com/business/2022/12/23/american-emigrants/" class="news-title">
+    Why have millions of Americans moved to these countries instead?
+  </a>
+  <span class="news-subtitle">Thw Washington Post</span>
+</div>
+
+<h2 class="Publications">Policy Briefs</h2>
+
+<div class="news-container">
+  <a href="https://poverty.ucdavis.edu/post/daca-associated-improved-birth-outcomes-among-mexican-immigrant-mothers" class="news-title">
+    DACA Associated with Improved Birth Outcomes Among Mexican-Immigrant Mothers
+  </a>
+  <span class="news-subtitle">Center for Poverty & Inequality, UC Davis</span>
+</div>
+
+<div class="news-container">
+  <a href="https://poverty.ucdavis.edu/post/de-facto-deported-children-mexico-face-socioeconomic-disadvantage" class="news-title">
+    De Facto Deported Children in Mexico Face Socioeconomic Disadvantage
+  </a>
+  <span class="news-subtitle">Center for Poverty & Inequality, UC Davis</span>
+</div>
