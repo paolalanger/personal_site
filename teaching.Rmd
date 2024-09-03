@@ -1,15 +1,17 @@
 ---
-title: "Teaching"
+output:
+  html_document:
+    css: styles.css
 ---
 
-<h2 style="font-size: 20px;">Courses - Instructor</h2>
+<h2 class="Publications">Courses - Instructor</h2>
 
-<h3 style="font-size: 16px;">At Mount Tamalpais College</h3>
+<h3 style="font-size: 14px;">At Mount Tamalpais College</h3>
 
 - [SOC 230: Sociology](content/FINAL SOC 230 Syllabus FA24.pdf)
 
 
-<h3 style="font-size: 16px;">At Pontificia Universidad Catolica de Chile</h3>
+<h3 style="font-size: 14px;">At Pontificia Universidad Católica de Chile</h3>
 
 - [Research Methods](content/Research_Methods.pdf)
 - [Latin American Social History](content/Latin_american_society.pdf)

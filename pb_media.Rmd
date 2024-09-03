@@ -1,5 +1,4 @@
 ---
-title: "Policy Briefs & Media"
 output:
   html_document:
     css: styles.css
@@ -37,5 +36,5 @@ output:
   <a href="https://www.washingtonpost.com/business/2022/12/23/american-emigrants/" class="news-title">
     Why have millions of Americans moved to these countries instead?
   </a>
-  <span class="news-subtitle">Thw Washington Post</span>
+  <span class="news-subtitle">The Washington Post</span>
 </div>

@@ -1,5 +1,4 @@
 ---
-title: "Research"
 output:
   html_document:
     css: styles.css
@@ -12,6 +11,8 @@ output:
 - [Hamilton, E. R., Masferrer, C., & Langer, P. (2022). US Citizen Children De Facto Deported to Mexico. Population and Development Review](https://onlinelibrary.wiley.com/doi/abs/10.1111/padr.12521)
 
 - [Hamilton E., Langer P., Patler C., (2021). DACA’s association with birth outcomes among Mexican-origin mothers in the United States. Demography. ](https://read.dukeupress.edu/demography/article/58/3/975/172654/DACA-s-Association-With-Birth-Outcomes-Among)
+
+- [Hamilton E., Patler C., Langer P. (2021) The Life-Course Timing of Legalization: Evidence from the DACA Program, Socius.](https://journals.sagepub.com/doi/pdf/10.1177/23780231211058958) 
 
 - [Pérez-Cruz, P. E., Langer, P., Carrasco, C., Bonati, P., Batic, B., Tupper Satt, L., & Gonzalez Otaiza, M. (2019). Spiritual Pain Is Associated with Decreased Quality of Life in Advanced Cancer Patients in Palliative Care: An Exploratory Study. Journal of palliative medicine](https://www.liebertpub.com/doi/full/10.1089/jpm.2018.0340)
 
