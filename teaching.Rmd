@@ -8,14 +8,14 @@ output:
 
 <h3 style="font-size: 14px;">At Mount Tamalpais College</h3>
 
-- [SOC 230: Sociology](content/FINAL SOC 230 Syllabus FA24.pdf)
+- SOC 230: Sociology
 
 
 <h3 style="font-size: 14px;">At Pontificia Universidad Católica de Chile</h3>
 
-- [Research Methods](content/Research_Methods.pdf)
-- [Latin American Social History](content/Latin_american_society.pdf)
-- [Sociological Theory I (Sociological Paradigms)](content/Sociological_theory.pdf)
-- [Modern Societies](content/Cultura_moderna_syllabus.pdf)
+- Research Methods
+- Latin American Social History
+- Sociological Theory I (Sociological Paradigms)
+- Modern Societies
 
 
