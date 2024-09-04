@@ -14,27 +14,27 @@ h2.email {
 }
 
 
-/* Center the document title */
+/* Left the document title */
 .title {
-  text-align: center;
+  text-align: left;
   font-size: 14px; /* Adjust the size as needed */
   margin-top: 20px; /* Optional: Add some space above the title */
   margin-bottom: 10px; /* Optional: Add some space below the title */
 }
 
-/* Center the document subtitle */
+/* Left the document subtitle */
 .subtitle {
-  text-align: center;
+  text-align: left;
   font-size: 14px; /* Adjust the size as needed */
   margin-top: 10px; /* Optional: Add some space above the title */
-  margin-bottom: 40px; /* Optional: Add some space below the title */
+  margin-bottom: 10px; /* Optional: Add some space below the title */
 }
 
 /* Style for Research Interests heading */
 .research-interests {
   font-size: 16px; /* Adjust the size as needed */
   color: #333; /* Optional: Change the color */
-  margin-top: 10; /* Optional: Add some space above the title */
+  margin-top: 20; /* Optional: Add some space above the title */
   margin-bottom: 0; /* Optional: Add space below the heading */
 }
 
@@ -93,17 +93,13 @@ h2.email {
 }
 
 .custom-text {
+  margin-top: 20; /* Optional: Add some space above the title */
   font-size: 14px; /* Adjust the font size as needed */
   color: #333; /* Adjust text color if needed */
   margin-bottom: 0; /* Space below the container */
 
 }
 
-.custom-text a {
-  color: #007BFF; /* Link color */
-  text-decoration: none; /* Remove underline */
-  margin-top: 16; /* Optional: Add some space above the title */
-}
 
 .custom-text a:hover {
   text-decoration: underline; /* Underline on hover */
