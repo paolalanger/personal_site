@@ -104,3 +104,28 @@ h2.email {
 .custom-text a:hover {
   text-decoration: underline; /* Underline on hover */
 }
+
+
+
+/* Style for the title */
+.title2 {
+  font-weight: bold;
+  font-size: 1.5em; /* Adjust the font size as needed */
+  margin-bottom: 20px; /* Add space below the title */
+}
+
+/* Style for the abstract title */
+.abstract-title {
+  text-decoration: underline;
+  font-size: 1.2em; /* Adjust the font size as needed */
+  margin-top: 20px; /* Add space above the abstract title */
+  margin-bottom: 10px; /* Add space below the abstract title */
+}
+
+/* Style for the abstract text */
+.abstract-text {
+  font-size: 1em; /* Adjust the font size as needed */
+  line-height: 1.6; /* Adjust line height for readability */
+  margin-bottom: 20px; /* Add space below the abstract text */
+}
+
