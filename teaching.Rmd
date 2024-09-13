@@ -8,7 +8,7 @@ output:
 
 <h3 style="font-size: 14px;">At Mount Tamalpais College</h3>
 
-- SOC 230: Sociology
+- [SOC 230: Sociology](content/FINAL SOC 230 Syllabus FA24.pdf)
 
 
 <h3 style="font-size: 14px;">At Pontificia Universidad Católica de Chile</h3>
