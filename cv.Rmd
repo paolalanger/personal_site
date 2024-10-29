@@ -5,8 +5,8 @@ output:
     css: styles.css
 ---
 
-You can [download my CV as a PDF](content/CV-Paola Langer-SEPT 2024_public.pdf).
+You can [download my CV as a PDF](content/CV-Paola Langer-OCT 2024_public.pdf).
 
-<object data="content/CV-Paola Langer-SEPT 2024_public.pdf" type="application/pdf" width="100%" height=1000>
+<object data="content/CV-Paola Langer-OCT 2024_public.pdf" type="application/pdf" width="100%" height=1000>
 <iframe src="content/CV-Paola Langer-SEPT 2024_public.pdf" width="100%" height="100%" style="border: none;"></iframe>
 </object>
