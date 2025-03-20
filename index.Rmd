@@ -13,7 +13,7 @@ output:
 <p>I'm a <a href="https://gspp.berkeley.edu/directories/staff-administration/paola-d-langer">Postdoctoral Fellow</a> at the <a href="https://gspp.berkeley.edu">Goldman School of Public Policy, UC Berkeley</a>.</p>
 
 <p class="custom-text">
-I use causal inference techniques and demographic methods to address how politics impact population health and wellbeing. I study the unequal health consequences of structural shifts in U.S. politics and examine immigration policies, laws, and institutions as drivers of disparities among immigrants and their families. My research has been published in several peer-reviewed journals, including 
+I study the unequal health consequences of shifts in U.S. politics and examine immigration policies, laws, and institutions as drivers of disparities among immigrants and their families. My research has been published in several peer-reviewed journals, including 
 <a href="https://read.dukeupress.edu/demography/article/61/4/1211/390020/Adverse-Infant-Health-Outcomes-Increased-After-the">Demography</a>, <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/padr.12521">Population and Development Review</a> & <a href="https://journals.sagepub.com/doi/pdf/10.1177/23780231211058958">Socius</a>
 </p>
 
