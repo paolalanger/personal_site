@@ -6,6 +6,14 @@ output:
 
 <h2 class="Publications">Publications</h2>
 
+- [Saadi A., Patler C., Langer P., Duration in Immigration Prison as a Mechanism for Health Harms Among Detained Immigrants.(2025) JAMA Network Open](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2829506)
+
+- [Hamilton E., Masferrer, C., & Langer, P. (2025) Parent-child separation and plans for family reunification after deportation to Mexico from the United States. Migraciones Internacionales](https://migracionesinternacionales.colef.mx/index.php/migracionesinternacionales/article/view/3018)
+
+- [Patler C., Langer P., (2025) Has population mental health returned to pre-pandemic levels, among and between groups by race and immigration status?. Social Science and Medicine -Mental Health](https://www.sciencedirect.com/science/article/pii/S2666560324000677)
+
+- [Patler C., Saadi A., Langer P., (2025) The health-related experiences of detained immigrants with and without mental illness. Journal of Migration and Health](https://pubmed.ncbi.nlm.nih.gov/39877138/)
+
 - [Langer P., Patler C., Hamilton E. (2024) The 2016 US presidential election was disproportionately associated birth outcomes for infants born to Black and Hispanic mothers. Demography](https://read.dukeupress.edu/demography/article/61/4/1211/390020/Adverse-Infant-Health-Outcomes-Increased-After-the)
 
 - [Hamilton, E. R., Masferrer, C., & Langer, P. (2022). US Citizen Children De Facto Deported to Mexico. Population and Development Review](https://onlinelibrary.wiley.com/doi/abs/10.1111/padr.12521)
@@ -16,25 +24,13 @@ output:
 
 - [Pérez-Cruz, P. E., Langer, P., Carrasco, C., Bonati, P., Batic, B., Tupper Satt, L., & Gonzalez Otaiza, M. (2019). Spiritual Pain Is Associated with Decreased Quality of Life in Advanced Cancer Patients in Palliative Care: An Exploratory Study. Journal of palliative medicine](https://www.liebertpub.com/doi/full/10.1089/jpm.2018.0340)
 
-<h2 class="Publications">Forthcoming</h2>
-
-- Hamilton E., Masferrer, C., & Langer, P. (Forthcoming) Parent-child separation and plans for family reunification after deportation to Mexico from the United States. Migraciones Internacionales
-
-<h2 class="Publications">Under review</h2>
-
-- Langer P., Campaign rallies and infant health: the case of Donald Trump
-
-- Patler C., Saadi A., Langer P., The health-related experiences of detained immigrants with and without mental illness
-
-- Patler C., Langer P., Has population mental health returned to pre-pandemic levels, among and between groups by race and immigration status?
-
-- Saadi A., Patler C., Langer P., Duration in Immigration Prison as a Mechanism for Health Harms Among Detained Immigrants
 
 <h2 class="Publications">Selected work in progress</h2>
 
 - Langer P., U.S. states’ prioritization of carceral spending and Black & White death
 
+- Langer P., Democratic backsliding and population health: The case of polling place closures after Shelby County v. Holder
+
 - Langer P., Patler C., The impact of DACA on the payment source for delivery
 
-- Langer P., Baughman E., Transitions to adulthood among disabled native and foreign-born adults
 
